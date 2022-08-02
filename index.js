@@ -1,4 +1,4 @@
-
+//Javascript is a high-level dynamic integrated programming Language.
     
     //1) WAYS TO PRINT IN 
 
@@ -195,4 +195,9 @@ console.log(myDate.getUTCDay());
 let obj = {name: "Anmol", length: 1};
 let jso = JSON.stringify(obj);
 console.log(jso);
-//Another function is known as Parse
+//Another function is known as Parse 
+
+/*
+I cover all the basics of javascript in this repository. Hopefully my this source code is easy to understand for you all.
+Thank You
+*/
